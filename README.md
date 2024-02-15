@@ -94,5 +94,5 @@ In conducting this analysis, I needed to eliminate null values and deleted empty
 
 ### Reference
 
-1. Jupiter Academy Data Analysis Assignment
+1. Jupita Academy Data Analysis Assignment
 2. [Stack Overflow](https://stackoverflow.com)
